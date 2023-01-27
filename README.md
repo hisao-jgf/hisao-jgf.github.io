@@ -10,8 +10,14 @@ All of the source-code of showcase projects, located in the **/projects** reposi
 
 - Uber - **[/hisao-jgf/Uber-Business](https://github.com/hisao-jgf/Uber-Business)**
 - Pulse - **[/hisao-jgf/Pulse-Enterprise](https://github.com/hisao-jgf/Pulse-Enterprise)**
-- HealthyFood - **[/hisao-jgf/Healthy-Food](https://github.com/hisao-jgf/Healthy-Food)**
+- Healthy Food - **[/hisao-jgf/Healthy-Food](https://github.com/hisao-jgf/Healthy-Food)**
+- Employees Database - **[/hisao-jgf/Employees-Database](https://github.com/hisao-jgf/Employees-Database)**
 
+Distinctly located projects:
+
+- Marvel Universe - **[/hisao-jgf/Marvel-Service](https://github.com/hisao-jgf/Marvel-Service)**
+
+\
 _( All of the links above lead to separate repositories. )_
 
 \
